@@ -1,0 +1,2 @@
+# alx-system_engineering-devops
+This repository is  about shell scripting
