@@ -1,1 +1,1 @@
-wrintting a script that shows the absoulute path of the current working directory
+script that prints the absolute path name of the current working directory
